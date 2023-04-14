@@ -1,3 +1,5 @@
 this is a new file
 to test out using git
+using this to demo git
+and try its features
 
